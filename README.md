@@ -1,2 +1,3 @@
-# icafe.wp
-Simple site for iCafe
+# [2020] Simple site for iCafe
+
+use WP
